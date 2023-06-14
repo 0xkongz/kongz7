@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kongz7
-- 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning how to code and build on Solana (SPL)
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+
 
 <!---
 kongz7/kongz7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
